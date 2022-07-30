@@ -344,6 +344,26 @@
               </div>
             </div>
           </div>
+          <!-- fourth projects -->
+          <div class="grid md:grid-cols-1 lg:grid-cols-2 mb-16 lg:mb-24  place-items-center item personal-projects gap-6 lg:gap-12">
+            <!-- project details -->
+            <div class="w-full grid row-end-3 lg:row-end-auto">
+              <p class="text-secondary pb-4 ">This site is my first ever <span class="text-green-500">Vue.js</span> project, mostly of the contents of this website are dynamic, I've created json file and put all the data in it, and then fetch to dynamically render the data.
+              </p>
+              <hr style="background: rgba(255, 255, 255, 0.2);; opacity: .10; color: inherit;">
+              <h4 class="text-white capitalize text-3xl pt-4">technologies used</h4>
+              <ul>
+                <li class="text-secondary">Vite + Vue 3</li>
+                <li class="text-secondary">Tailwind CSS</li>
+              </ul>
+              <div class="block lg:flex">
+                <a href="https://or-site-clone.vercel.app/" class="bg-backupSecondary capitalize tracking-wide text-white hover:bg-highLight ease-out duration-300 focus:bg-highLight cursor-pointer p-2  w-36 text-center text-sm  rounded-sm flex items-center justify-center mt-4 mr-4 mb-4 lg:mb-0"><i class="fa-solid fa-play mr-2"></i>live preview</a>
+              </div>
+            </div>
+            <figure>
+              <img src="./assets/img/sour-project.PNG" alt="sour-site">
+            </figure>
+          </div>
           <!-- client projects -->
           <div class="client-projects w-full hidden">
             <h5 class="text-secondary font-light">It's Confidential</h5>
