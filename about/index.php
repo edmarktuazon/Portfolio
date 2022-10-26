@@ -61,15 +61,9 @@
                     <h3 class="capitalize font-bold text-4xl text-white">meet my skills</h3>
                 </div>
                 <div class="w-11/12 lg:w-9/12 mx-auto">
-                    <p class="text-2xl lg:text-4xl text-justify text-secondary " style="line-height: 1.3">A self taught
-                        Frontend Developer with more than a year of experience in Frontend Web Development, I'm based in
-                        province of Cavite, Philippines, I' am able to do about building intuitive, user-friendly,
-                        responsive, and well-constructed websites such as Landing Pages, Dynamic Sites, and Converting
-                        UI/UX Design into latest Frontend Technologies.
-                        <br>
-                        <br>
-                        I 'am actively learning about Latest Technologies especially in Frontend, and I'm always looking
-                        for new opportunities to learn and grow.
+                    <p class="text-2xl lg:text-4xl text-justify text-secondary">
+                        A self-taught Software Developer focused on Frontend, able to Develop, Responsive, Intuitive and
+                        User-Friendly Websites using the latest Frontend Technologies.
                     </p>
                 </div>
                 <!-- skills -->
