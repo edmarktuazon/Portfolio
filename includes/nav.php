@@ -8,14 +8,17 @@
         <ul class="hidden md:flex items-center">
             <li><a href="../index.php" class="text-secondary mr-8 hover:text-white ease-out duration-300">Home</a></li>
             <li><a href="../about/" class="text-secondary mr-8 hover:text-white ease-out duration-300">About</a></li>
-            <li><a href="../projects/" class="text-secondary mr-8 hover:text-white ease-out duration-300">Portfolios</a></li>
-            <li><a href="../docs/OJT-Cert_Tuazon-Edmark.png" class="text-secondary mr-8 hover:text-white ease-out duration-300">Certificates</a></li>
-            <li><a href="../contact/" class="text-secondary hover:text-white ease-out duration-300 mr-8">Contact</a></li>
+            <li><a href="../projects/" class="text-secondary mr-8 hover:text-white ease-out duration-300">Portfolios</a>
+            </li>
+            <li><a href="../docs/OJT-Cert_Tuazon-Edmark.png" target="_blank"
+                    class="text-secondary mr-8 hover:text-white ease-out duration-300">Certificates</a></li>
+            <li><a href="../contact/" class="text-secondary hover:text-white ease-out duration-300 mr-8">Contact</a>
+            </li>
         </ul>
         <!-- hamburger-->
-        <div class="md:hidden hamburger-menu">
+        <div class="md:hidden hamburger-menu mobile-menu-button cursor-pointer">
             <div class="menu-bar">
-                <button class="bar mobile-menu-button "></button>
+                <button class="bar"></button>
             </div>
         </div>
     </div>
@@ -39,7 +42,8 @@
             <hr style="border: 1px solid rgba(255,255,255,.3); opacity: 0.1;">
             <li>
                 <i class="fa-solid fa-award pl-2 text-white hover:text-white"></i>
-                <a href="../docs/OJT-Cert_Tuazon-Edmark.png" class="text-secondary mr-8 hover:text-white ease-out duration-300">Certificate</a>
+                <a href="../docs/OJT-Cert_Tuazon-Edmark.png"
+                    class="text-secondary mr-8 hover:text-white ease-out duration-300">Certificate</a>
             </li>
             <hr style="border: 1px solid rgba(255,255,255,.3); opacity: 0.1;">
             <li>

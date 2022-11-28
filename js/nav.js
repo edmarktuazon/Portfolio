@@ -13,7 +13,7 @@ window.addEventListener("scroll", () => {
 	}
 });
 // toggle nav
-const hamburgerBtn = document.querySelector(".mobile-menu-button");
+const hamburgerBtn = document.querySelector(".mobile-menu-button ");
 const menu = document.querySelector(".mobile-menu");
 const mainContentContainer = document.querySelector("main");
 
