@@ -69,7 +69,7 @@
                     <span class="ml-6 mr-6 text-secondary">/</span>
                 </li>
                 <li class="mb-2 md:mb-0"><a href="https://www.linkedin.com/in/edmarktuazon/" target="_blank"
-                        class="text-secondary  hover:text-white tracking-widest ease-out duration-300">Linkedin</a>
+                        class="text-secondary  hover:text-white tracking-widest ease-out duration-300">LinkedIn</a>
                     <span class="ml-6 mr-6 text-secondary">/</span>
                 </li>
                 <li><a href="https://github.com/edmarktuazon" target="_blank"
