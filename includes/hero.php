@@ -16,7 +16,7 @@
                 <div class="mx-auto">
                     <div
                         class="home-title animate__animated animate__fadeInDown mx-auto grid md:place-items-start place-items-center  lg:mx-0 lg:grid lg:place-items-start  mt-4 lg:mt-0 lg:ml-0 xl:mr-24">
-                        <h1 class="title  text-white text-center lg:text-left text-5xl lg:text-6xl mt-8 md:mt-0 w-full tracking-wider"
+                        <h1 class="title  text-white text-center lg:text-left text-4xl md:text-5xl lg:text-6xl mt-8 md:mt-0 w-full tracking-wider"
                             style="font-weight: 700 !important; ">
                             Edmark Tuazon
                         </h1>
@@ -25,7 +25,7 @@
                             Frontend Web Developer</h3>
                         <!-- resume btn -->
                         <a href="./docs/Dev_Ed.pdf" target="_blank"
-                            class="bg-backupSecondary capitalize text-white hover:bg-highLight ease-out duration-300 focus:bg-highLight cursor-pointer p-2  w-36 text-center text-sm  rounded-sm flex items-center justify-center  mt-4 lg:mt-0 tracking-widest">view
+                            class="bg-backupSecondary capitalize text-white hover:bg-highLight ease-out duration-300 focus:bg-highLight cursor-pointer p-2  w-36 text-center text-sm  rounded-sm flex items-center justify-center  tracking-widest">view
                             resume</a>
                     </div>
                     <!-- social med icons -->

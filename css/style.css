@@ -134,7 +134,7 @@ button.active {
 	.mobile-menu {
 		z-index: 999;
 		position: relative;
-		left: -500px;
+		left: -600px;
 		top: 0;
 		/* margin-top: -31px; */
 		width: 70%;
