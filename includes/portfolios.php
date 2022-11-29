@@ -7,22 +7,21 @@
          </div>
          <!-- items menus -->
          <div class="item-menus">
-             <div class="grid place-items-start md:flex md:justify-center pb-16" id="filters">
+             <div class="grid place-items-start md:flex md:justify-center lg:items-center lg:flex-row items-center flex-row gap-1 md:gap-3 pb-16"
+                 id="filters">
                  <button data-filter="*"
-                     class="all-btn capitalize  
-          hover:bg-highLight p-2 hover:text-white 
-          text-secondary  cursor-pointer mr-4 mb-4 lg:mb-0 rounded-sm ease-out duration-300 tracking-wide active">all</button>
+                     class="all-btn capitalize hover:bg-highLight p-2 hover:text-white text-secondary  cursor-pointer  rounded-sm ease-out duration-300 tracking-wide active">all</button>
                  <button data-filter=".client-projects"
-                     class="client-btn capitalize text-secondary hover:bg-highLight  p-2  hover:text-white  cursor-pointer mr-4 mb-4 lg:mb-0 rounded-sm ease-out duration-300 tracking-wide">client
+                     class="client-btn capitalize text-secondary hover:bg-highLight p-2 hover:text-white  cursor-pointer rounded-sm ease-out duration-300 tracking-wide">client
                      projects</button>
                  <button data-filter=".internship-projects"
-                     class="capitalize text-secondary hover:bg-highLight  p-2  hover:text-white  cursor-pointer mr-4 mb-4 lg:mb-0  rounded-sm ease-out duration-300 tracking-wide">internship
+                     class="capitalize text-secondary hover:bg-highLight  p-2 hover:text-white  cursor-pointer  rounded-sm ease-out duration-300 tracking-wide">internship
                      projects</button>
                  <button data-filter=".web-competition-project"
-                     class="capitalize text-secondary  hover:bg-highLight  p-2  hover:text-white  cursor-pointer mr-4 mb-4 lg:mb-0 rounded-sm ease-out duration-300 tracking-wide">web
+                     class="capitalize text-secondary  hover:bg-highLight  p-2 hover:text-white  cursor-pointer rounded-sm ease-out duration-300 tracking-wide">web
                      competition project</button>
                  <button data-filter=".personal-project"
-                     class="capitalize text-secondary  hover:bg-highLight  p-2  hover:text-white  cursor-pointer mr-4 mb-4 lg:mb-0 rounded-sm ease-out duration-300 tracking-wide">Personal
+                     class="capitalize text-secondary  hover:bg-highLight  p-2 hover:text-white  cursor-pointer rounded-sm ease-out duration-300 tracking-wide">Personal
                      Project</button>
              </div>
          </div>
@@ -30,7 +29,7 @@
          <div class="filtered-items">
              <!-- first projects -->
              <div
-                 class="grid md:grid-cols-1 lg:grid-cols-2 mb-16 lg:mb-24 place-items-center item internship-projects gap-6 lg:gap-12">
+                 class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mb-16 lg:mb-24 place-items-center item internship-projects gap-6 lg:gap-12">
                  <figure>
                      <img src="../assets/img/project-05.PNG" alt="free bible">
                  </figure>
@@ -55,9 +54,9 @@
              </div>
              <!-- second project -->
              <div
-                 class="grid  grid-cols-1 lg:grid-cols-2 mb-16 lg:mb-24  place-items-center item internship-projects gap-6 lg:gap-12">
+                 class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mb-16 lg:mb-24  place-items-center item internship-projects gap-6 lg:gap-12">
                  <!-- project details -->
-                 <div class="grid row-end-3 lg:row-end-auto">
+                 <div class="grid row-end-3 md:row-end-1 lg:row-end-auto">
                      <p class="text-secondary pb-4 ">TaskPlace is a rental place for individuals or groups, this
                          site user can book through google form or may user fill out the form on this site, and
                          rent a place they want.
@@ -80,7 +79,7 @@
              </div>
              <!-- third projects -->
              <div
-                 class="grid md:grid-cols-1 lg:grid-cols-2 mb-16 lg:mb-24  place-items-center item web-competition-project gap-6 lg:gap-12">
+                 class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mb-16 lg:mb-24  place-items-center item web-competition-project gap-6 lg:gap-12">
                  <figure>
                      <img src="../assets/img/project-07.PNG" alt="icc">
                  </figure>
@@ -110,11 +109,11 @@
              </div>
              <!-- fourth projects -->
              <div
-                 class="grid md:grid-cols-1 lg:grid-cols-2 mb-16 lg:mb-24  place-items-center item personal-project gap-6 lg:gap-12">
+                 class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mb-16 lg:mb-24  place-items-center item personal-project gap-6 lg:gap-12">
                  <!-- project details -->
-                 <div class="w-full grid row-end-3 lg:row-end-auto">
-                     <p class="text-secondary pb-4 ">A Dynamic Landing Page built in Vite + Vue.js 3 and Tailwind
-                         CSS
+                 <div class="w-full grid row-end-3 md:row-end-1 lg:row-end-auto">
+                     <p class="text-secondary pb-4 ">A dynamic clone site, cloned from the official site of
+                         Oliviarodrigo.com
                      </p>
                      <hr style="background: rgba(255, 255, 255, 0.2);; opacity: .10; color: inherit;">
                      <h4 class="text-white capitalize text-3xl pt-4">technologies used</h4>

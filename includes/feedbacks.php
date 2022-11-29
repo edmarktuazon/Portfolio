@@ -4,7 +4,7 @@
          </h5>
          <h2 class="font-bold text-4xl text-white">Great experience with awesome people</h2>
      </div>
-     <div class="grid grid-cols-1 lg:grid-cols-2 px-8 lg:px-36">
+     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 px-8 lg:px-36">
          <div class="owl-carousel owl-theme"></div>
          <div class="owl-carousel owl-theme">
              <!-- first feedback -->

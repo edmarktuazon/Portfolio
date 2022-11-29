@@ -26,29 +26,29 @@
     <section class="mobile-menu mx-0">
         <ul class="mt-8 mb-16">
             <li>
-                <i class="fa-solid fa-house pl-2 text-white hover:text-white"></i>
+                <i class="fa-solid fa-house pl-2 text-white "></i>
                 <a href="../index.php" class="text-secondary hover:text-white ease-out duration-300">Home</a>
             </li>
             <hr style="border: 1px solid rgba(255,255,255,.3); opacity: 0.1;">
             <li>
-                <i class="fa-solid fa-address-card pl-2 text-white hover:text-white"></i>
+                <i class="fa-solid fa-address-card pl-2 text-white "></i>
                 <a href="../about/" class="text-secondary mr-8 hover:text-white ease-out duration-300">About</a>
             </li>
             <hr style="border: 1px solid rgba(255,255,255,.3); opacity: 0.1;">
             <li>
-                <i class="fa-solid fa-diagram-project pl-2 text-white hover:text-white"></i>
+                <i class="fa-solid fa-diagram-project pl-2 text-white "></i>
                 <a href="../projects/" class="text-secondary mr-8 hover:text-white ease-out duration-300">Portfolios</a>
             </li>
             <hr style="border: 1px solid rgba(255,255,255,.3); opacity: 0.1;">
             <li>
-                <i class="fa-solid fa-award pl-2 text-white hover:text-white"></i>
+                <i class="fa-solid fa-award pl-2 text-white "></i>
                 <a href="../docs/OJT-Cert_Tuazon-Edmark.png"
                     class="text-secondary mr-8 hover:text-white ease-out duration-300">Certificate</a>
             </li>
             <hr style="border: 1px solid rgba(255,255,255,.3); opacity: 0.1;">
             <li>
-                <i class="fa-solid fa-phone-flip pl-2 text-white hover:text-white"></i>
-                <a href="../contact/" class="text-secondary mr-8 ease-out duration-300">Contact</a>
+                <i class="fa-solid fa-phone-flip pl-2 text-white"></i>
+                <a href="../contact/" class="text-secondary mr-8 ease-out duration-300 hover:text-white">Contact</a>
             </li>
             <hr style="border: 1px solid rgba(255,255,255,.3); opacity: 0.1;">
         </ul>

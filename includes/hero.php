@@ -1,7 +1,7 @@
 <section class="bg-backupPrimary">
     <div class="w-full xl:w-9/12 mx-auto">
         <div class="py-40">
-            <div class="md:block lg:flex lg:items-center">
+            <div class="block items-center md:flex md:items-center">
                 <div class="mx-auto grid place-items-center pb-4 lg:mb-0">
                     <div class="has-tooltip">
                         <div
@@ -15,8 +15,8 @@
                 </div>
                 <div class="mx-auto">
                     <div
-                        class="home-title animate__animated animate__fadeInDown mx-auto grid place-items-center  lg:mx-0 lg:grid lg:place-items-start  mt-4 lg:mt-0 lg:ml-0 xl:mr-24">
-                        <h1 class="title  text-white text-center lg:text-left text-4xl md:text-6xl mt-8 md:mt-0 w-full tracking-wider"
+                        class="home-title animate__animated animate__fadeInDown mx-auto grid md:place-items-start place-items-center  lg:mx-0 lg:grid lg:place-items-start  mt-4 lg:mt-0 lg:ml-0 xl:mr-24">
+                        <h1 class="title  text-white text-center lg:text-left text-5xl lg:text-6xl mt-8 md:mt-0 w-full tracking-wider"
                             style="font-weight: 700 !important; ">
                             Edmark Tuazon
                         </h1>
@@ -30,8 +30,8 @@
                     </div>
                     <!-- social med icons -->
                     <div
-                        class="animate__animated animate__fadeIn flex justify-center lg:hidden lg:place-items-start  my-8 lg:mb-0 ">
-                        <div class="flex m-8">
+                        class="animate__animated animate__fadeIn flex justify-center md:justify-start lg:justify-center lg:hidden lg:place-items-start  my-8 lg:mb-0 ">
+                        <div class="flex m-0 lg:m-8">
                             <div class="pr-4">
                                 <a href="https://www.facebook.com/edmark.io/" target="_blank">
                                     <img src="./assets/img/akar-icons_facebook-fill.png" alt="facebook"

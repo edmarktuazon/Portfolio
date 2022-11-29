@@ -1,12 +1,12 @@
 <!-- primary footer -->
-<footer class="grid grid-cols-1 lg:grid-cols-4 gap-5  px-8 xl:px-48 my-32 ">
+<footer class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5  px-8 xl:px-48 my-32 ">
     <figure>
         <img src="../assets/img/logo.png" alt="logo">
-        <figcaption class="mt-8 text-secondary">
-            Let's connect together and make your desire come true.
+        <figcaption class="mt-4 text-secondary">
+            Let's connect together
         </figcaption>
-        <div class="flex mt-4">
-            <div class="pr-2">
+        <div class="flex mt-4 gap-3">
+            <div>
                 <div
                     class="flex items-center justify-center bg-backupPrimary rounded-full h-14 w-14 hover:bg-highLight ease-out duration-300">
                     <a href="https://www.facebook.com/edmark.io/" target="_blank">
@@ -14,7 +14,7 @@
                     </a>
                 </div>
             </div>
-            <div class="pr-2">
+            <div>
                 <div
                     class="flex items-center justify-center bg-backupPrimary rounded-full h-14 w-14 hover:bg-highLight ease-out duration-300">
                     <a href="https://www.instagram.com/edmark.io/" target="_blank">
@@ -22,7 +22,7 @@
                     </a>
                 </div>
             </div>
-            <div class="pr-2">
+            <div>
                 <div
                     class="flex items-center justify-center bg-backupPrimary rounded-full h-14 w-14 hover:bg-highLight ease-out duration-300">
                     <a href="https://www.linkedin.com/in/edmarktuazon/" target="_blank">

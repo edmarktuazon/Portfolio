@@ -5,7 +5,7 @@
           <h4 class="text-secondary pt-4 w-full lg:w-4/12">I' am open for new projects, if you want to hire me
               feel free to send me a message.</h4>
       </div>
-      <div class="grid grid-cols-1 lg:grid-cols-2 px-8 xl:px-48">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 px-8 xl:px-48">
           <div class="grid">
               <div>
                   <h5 class="text-white font-bold uppercase tracking-widest">address</h5>
@@ -32,8 +32,8 @@
                   <?php echo "All fields must be filled out" ?>
               </p>
               <?php
-                        } else {
-                            if (mail($email, $subject, $message, "Hello my name is $name")) { ?>
+                } else {
+                    if (mail($email, $subject, $message, "Hello my name is $name")) { ?>
               <p class="bg-green-400 mb-6 flex text-white p-4">
                   <?php echo "Thanks for your interest, your mail was successfully sent." ?>
                   <a href="../index.php"
@@ -41,26 +41,26 @@
                       Home</a>
               </p>
               <?php
-                            } else {
-                            ?>
+                    } else {
+                        ?>
               <p class="bg-highLight mb-6 text-white p-4">
-                  <?php echo "There was a problem while sending your mail, please contact developer via email instead. Thanks!" ?>
+                  <?php echo "Server error, please contact developer via email instead. Thanks!" ?>
               </p>
               <?php
                             }
-                        }
                     }
-                    ?>
+            }
+    ?>
               <form action="../contact/" method="POST">
-                  <div class="form-group">
-                      <input type="email" name="email"
-                          class="w-full p-4 text-white bg-transparent border-backupSecondary border mb-4 focus:outline-none focus:border-white form-email"
-                          placeholder="Email Address" />
-                  </div>
                   <div class="form-group">
                       <input type="name" name="name"
                           class="w-full p-4 text-white bg-transparent border-backupSecondary  border mb-4 focus:outline-none focus:border-white form-name"
                           placeholder="Name" />
+                  </div>
+                  <div class="form-group">
+                      <input type="email" name="email"
+                          class="w-full p-4 text-white bg-transparent border-backupSecondary border mb-4 focus:outline-none focus:border-white form-email"
+                          placeholder="Email Address" />
                   </div>
                   <div class="form-group">
                       <input type="text" name="subject"
