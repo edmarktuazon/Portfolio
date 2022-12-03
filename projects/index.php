@@ -47,9 +47,7 @@
             <div class="px-8 lg:px-48 flex items-center">
                 <div class="my-52 animate__animated animate__fadeInDown">
                     <h2 class="font-bold text-[44px] lg:text-6xl xl:text-6xl tracking-wider text-white pb-4">Stuffs that
-                        i Worked on</h2>
-                    <a href="../index.php"
-                        class="text-md text-highLight hover:text-white ease-out duration-300">Home</a>
+                        i worked on</h2>
                 </div>
             </div>
         </section>

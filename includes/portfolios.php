@@ -3,7 +3,7 @@
          <div class="pb-16">
              <h5 class="primary-section-title uppercase  text-secondary text-sm pb-4 tracking-widest">projects
              </h5>
-             <h2 class="capitalize font-bold text-4xl text-white">meet my portfolios</h2>
+             <h2 class="font-bold text-4xl text-white">Meet my Portfolios</h2>
          </div>
          <!-- items menus -->
          <div class="item-menus">

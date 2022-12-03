@@ -47,8 +47,6 @@
                 <div class="my-52 animate__animated animate__fadeInDown">
                     <h2 class="font-bold text-[44px] lg:text-6xl xl:text-6xl tracking-wider text-white pb-4">A little
                         About me</h2>
-                    <a href=".../index.php"
-                        class="text-md  text-highLight hover:text-white ease-out duration-300">Home</a>
                 </div>
             </div>
         </section>
